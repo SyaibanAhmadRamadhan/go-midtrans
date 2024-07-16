@@ -29,3 +29,7 @@ env.override.json
 
 # Mocks
 mock_*.go
+
+# golang air
+.air.toml
+tmp
